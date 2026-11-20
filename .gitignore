@@ -1,3 +1,4 @@
 node_modules/
 .env
 APIs and Keys.txt
+FIREBASE_SERVICE_ACCOUNT_JSON.json
